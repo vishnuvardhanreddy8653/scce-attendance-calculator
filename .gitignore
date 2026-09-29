@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Production builds
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.production.local
+
+# Logs & temporary files
+*.log
+npm-debug.log*
+yarn-debug.log*
+*.tmp
+cookies.txt
+updateddata.html
+updateddata_new.html
+Dailywisereport.html
+Dailywisereport_posted.html
+daily_post_raw.html
+test_portal.py
+poc_pipeline.py
+parse_saved_html.py
+inspect_tables.py
+debug_table_parse.py
+debug_raw.py
+find_sno.py
+
+# System
+.DS_Store
+Thumbs.db
